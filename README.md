@@ -1,27 +1,13 @@
-# First Website
-<!DOCTYPE html>
+#OhhNothing.github.io
 <html>
     <head>
-        <meta charset="utf-8">
-               
-        <style> h1 {color: rgb(76, 142, 212);}
-                h2 {color: rgb(171, 127, 212);} 
-                p {color: rgb(15, 153, 125);}
-                h3 {color: rgb(74, 48, 161);}
-                h4 {color: rgb(74, 48, 161);}
-                </style>
-        
+        <meta charset="utf-8"> 
     </head>
     <body>
-
-    <h1>Hallo & welkom to my BLOG</h1>
-    
-    <h2>Basic info (about me)</h2>
-    
-    <p>I am 10 & I already know coding. Don't be sarcastic by saying wow, just tell me if you like it or not. And I'm cool if you just exit, hate my page, & clear this from your browsing history. And I know, this looks like an old website, but it's just because I learned HTML websites from Khan Academy. Please don't hate me Khan Academy but your lessons need new updates. (PS. they are not that bad) </p>
-    
-    <h2>A little more to know about me</h2>
-    
+    <h1>Hallo & welkom to my BLOG</h1>    
+    <h2>Basic info (about me)</h2>    
+    <p>I am 10 & I already know coding. Don't be sarcastic by saying wow, just tell me if you like it or not. And I'm cool if you just exit, hate my page, & clear this from your browsing history. And I know, this looks like an old website, but it's just because I learned HTML websites from Khan Academy. Please don't hate me Khan Academy but your lessons need new updates. (PS. they are not that bad) </p>    
+    <h2>A little more to know about me</h2>    
     <p>I play lots of games, and when I say lots I mean LOTS. <br>
  I also have a merch store, wait wait wait, I shouldn't be telling you this.<br>
  No no no no no no no no no!<br>
