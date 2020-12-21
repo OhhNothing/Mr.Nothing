@@ -29,5 +29,6 @@
 <h4>okay, Links!</h4>
 <a href="https://teespring.com/stores/hermitcraft-and-more">Merch</a>
 <a href="https://discord.gg/wKhhVsND">Discord</a>
+<a href=">https://www.youtube.com/channel/UCKAbw6ciP26Q7PTBTfeEdIw?view_as=subscriber">YouTube</a>
 </body>
 </html>
