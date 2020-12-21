@@ -27,12 +27,7 @@
 <p> YOU CAN GO NOW </p>
 <p> No wait, I just learned how to put links in to my webpage! Be right back with the links</p>
 <h4>okay, Links!</h4>
-<a href=">https://www.instagram.com/ohhnothing/">Insta</a>
-<h4></h4>
-<a href=">https://www.youtube.com/channel/UCKAbw6ciP26Q7PTBTfeEdIw?view_as=subscriber">YouTube</a>
-<h4></h4>
 <a href="https://teespring.com/stores/hermitcraft-and-more">Merch</a>
-<h4></h4>
 <a href="https://discord.gg/wKhhVsND">Discord</a>
 </body>
 </html>
