@@ -6,7 +6,7 @@
     <body>
     <style>
     .different-lang {
-    color: pink;
+    color: rgb(50, 113, 207);
     }  
     </style>
     <h1>Hallo & <span class="different-lang">welkom</span> to my BLOG</h1>    
