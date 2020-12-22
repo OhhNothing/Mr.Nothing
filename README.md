@@ -4,12 +4,7 @@
         <meta charset="utf-8"> 
     </head>
     <body>
-    <style>
-    .different-lang {
-    color: rgb(50, 113, 207);
-    }  
-    </style>
-    <h1>Hallo & <span class="different-lang">welkom</span> to my BLOG</h1>    
+    <h1>Hallo & welkom to my BLOG</h1>    
     <h2>Basic info (about me)</h2>    
     <p>I am 10 & I already know coding. Don't be sarcastic by saying wow, just tell me if you like it or not. And I'm cool if you just exit, hate my page, & clear this from your browsing history. And I know, this looks like an old website, but it's just because I learned HTML websites from Khan Academy. Please don't hate me Khan Academy but your lessons need new updates. (PS. they are not that bad) </p>    
     <h2>A little more to know about me</h2>    
