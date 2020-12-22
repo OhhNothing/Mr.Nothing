@@ -26,5 +26,3 @@
 <a href="https://teespring.com/stores/hermitcraft-and-more">Merch</a>
 <h4></h>
 <a href="https://discord.gg/wKhhVsND">Discord</a>
-</body>
-</html>
