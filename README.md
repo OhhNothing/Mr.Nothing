@@ -3,12 +3,12 @@
         <meta charset="utf-8"> 
     </head>
     <body>
+    <h1>Hallo & welkom to my BLOG</h1>    
+    <h2>Basic info (about me)</h2>  
     <style>
     p {text-align: justify;}      
     a {text-decoration: none;}
-    </style>
-    <h1>Hallo & welkom to my BLOG</h1>    
-    <h2>Basic info (about me)</h2>    
+    </style>  
     <p>I am 10 & I already know coding. Don't be sarcastic by saying wow, just tell me if you like it or not. And I'm cool if you just exit, hate my page, & clear this from your browsing history. And I know, this looks like an old website, but it's just because I learned HTML websites from Khan Academy. Please don't hate me Khan Academy but your lessons need new updates. (PS. they are not that bad) </p>    
     <h2>A little more to know about me</h2>    
     <p>I play lots of games, and when I say lots I mean LOTS. <br>
