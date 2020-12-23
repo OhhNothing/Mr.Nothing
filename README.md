@@ -4,7 +4,7 @@
     </head>
     <body>
         <style>
-        p { font-family: "buetiful-web-type",source-code-pro }
+        p { font-family: "beautiful-web-type", source-code-pro; }
         </style>
     <h1>Hallo & welkom to my BLOG</h1>    
     <h2>Basic info (about me)</h2>    
