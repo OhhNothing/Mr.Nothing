@@ -26,5 +26,5 @@
 <a href="https://discord.gg/wKhhVsND">Discord</a>
 <a href="https://www.youtube.com/channel/UCKAbw6ciP26Q7PTBTfeEdIw">YouTube</a>
 <a href="https://www.instagram.com/ohhnothing/">Instagram</a>
-<a herf="https://www.twitch.tv/mr_nothing_yt">Twitch</a>
+<a href="https://www.twitch.tv/mr_nothing_yt">Twitch</a>
         
