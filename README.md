@@ -13,7 +13,7 @@
  Okay, if I learn how to make a part where I can put a comment section, I will make it on my page so you can tell me about it & why it is so bad.</p>
 <h3>Wierd Talk</h3>
 <h4> I know this page is allready a bit weird, but I'm going to add a section to why it's weird.</h4>
-<p> What sould I add on this part of the page? What did you say, A WEIRD PARRAGRAPH, well that's a great idea. Yep I know, I made this alot weirder. Also if you want to check out my merch store, look all the way at the bottom of the page. My so called "Name" is Ohh_Nothing or Mr.Nothing</p>
+<p> What sould I add on this part of the page? What did you say, A WEIRD PARRAGRAPH, well that's a great idea. Yep I know, I made this alot weirder. Also if you want to check out my merch store, look all the way at the bottom of the page. You can also checkout other links in the links section.😃</p>
 <h1>B Y E</h1>
 <h3> Wait, YOU CAN GO NOW!</h3>
 <p> Don't ever try coming back again!</p> 
