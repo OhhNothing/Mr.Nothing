@@ -27,4 +27,5 @@
 <a href="https://www.youtube.com/channel/UCKAbw6ciP26Q7PTBTfeEdIw">YouTube</a>
 <a href="https://www.instagram.com/ohhnothing/">Instagram</a>
 <a href="https://www.twitch.tv/mr_nothing_yt">Twitch</a>
-        
+<a href="https://twitter.com/prince_sneaky">Twitter</a>
+<a href="https://www.reddit.com/user/Robo_Nerd_YT">Reddit</a>
