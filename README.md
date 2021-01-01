@@ -18,7 +18,7 @@
 <h3> Wait, YOU CAN GO NOW!</h3>
 <p> Don't ever try coming back again!</p> 
 <p> Wait don't go. I have a image for you.</p>
-<p> Nevermind </p>
+<p> NEVERMIND </p>
 <p> YOU CAN GO NOW </p>
 <p> No wait, I just learned how to put links in to my webpage! Be right back with the links</p>
 <h4>okay, Links!</h4>
