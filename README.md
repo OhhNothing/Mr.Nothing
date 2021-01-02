@@ -29,3 +29,6 @@
 <a href="https://www.twitch.tv/mr_nothing_yt">Twitch</a>
 <a href="https://twitter.com/prince_sneaky">Twitter</a>
 <a href="https://www.reddit.com/user/Robo_Nerd_YT">Reddit</a>
+<h2>So...</h2>
+<p>So, yeah, I made another parragraph. I guess I could talk about my favorite browser extension... HONEY! What honey does is it finds coupons from everywhere & applys them to whatever online shopping website your on. It applies coupons to over millons of stores. You might of heard of honey in Mr. Beast's videos because honey sponsers his videos. If you want to check out honey I'll put it right below this parragraph.</p>
+<a href="https://"https://www.joinhoney.com/page/dr-us-evergreen-simplified-widget-yellow/?utm_campaign=INFL_All_Video_All_Entertainment_NA_NA_mrbeast_DR-US-Evergreen-Simplified-Widget-Yellow&utm_source=infl&utm_medium=vid&utm_term=&utm_content=&from=r">Honey</a>
