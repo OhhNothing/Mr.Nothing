@@ -11,7 +11,7 @@
  I also have a merch store, wait wait wait, I shouldn't be telling you this.<br>
  No no no no no no no no no!<br>
  Okay, if I learn how to make a part where I can put a comment section, I will make it on my page so you can tell me about it & why it is so bad.</p>
-<h3>Wierd Talk</h3>
+<h3>I'm even more wierd than you thought</h3>
 <h4> I know this page is allready a bit weird, but I'm going to add a section to why it's weird.</h4>
 <p> What sould I add on this part of the page? What did you say, A WEIRD PARRAGRAPH, well that's a great idea. Yep I know, I made this alot weirder. Also if you want to check out my merch store, look all the way at the bottom of the page. You can also checkout other links in the links section.😃</p>
 <h1>B Y E</h1>
